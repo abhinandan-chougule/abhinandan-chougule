@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+My name is Abhinandan. I oversee the infrastructure for a product-based financial institution that operates both in data centers and the cloud.
+
+- 🔭 I’m currently working to build AWS, OCI, and Azure infrastructure from scratch through IaC.
+- 🌱 Every day I add at least 1% to my technical capacity
+- 👯 I’m looking to collaborate on sharing tips, tricks, and hacks in the Cloud world!
 
 <!--
 **abhinandan-chougule/abhinandan-chougule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
